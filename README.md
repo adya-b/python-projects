@@ -1,0 +1,1 @@
+1. Correlation Project - Performed correlation analysis on a movies dataset using Python (Pandas, Seaborn) to identify key relationships between features; demonstrated data cleaning, visualization, and EDA skills.
